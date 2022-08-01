@@ -1,4 +1,4 @@
-package main
+package variablesAndFunctions
 
 import "log"
 
